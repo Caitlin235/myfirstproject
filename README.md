@@ -1,3 +1,4 @@
 # myfirstproject
 
-First day of Microsoft
+
+Today is an amazing hot day in Reading
